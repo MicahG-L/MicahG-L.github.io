@@ -30,7 +30,7 @@ This Google Fusion map details the location and description of the six volcanoes
 
 <iframe width="500" height="500" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1I_K1r6Mvqe6xOy-MK0cqkxfn-moqVQRPPQr3sij1&amp;viz=MAP&amp;h=false&amp;lat=-66.93987430335972&amp;lng=109.13399304999984&amp;t=1&amp;z=0&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
-## Storypoint chart on Dogs and Cats by Location in the US
+## Dogs and Cats by Location in the US
 
 This storypoint includes three charts representing dog and cat locations in the US. One chart shows the number of pet owners by state, filtered with a darker shade of orange for the states with more pet owners, and the other two charts show the number of dog- and cat-holding households in each state, respectively.
 
