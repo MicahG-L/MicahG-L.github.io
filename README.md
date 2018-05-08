@@ -28,7 +28,7 @@ This line chart shows the adult obesity rates over the years 2007-2016 for the t
 
 This Google Fusion map details the location and description of the six volcanoes around the world that [Popular Science](https://www.popsci.com/volcano-eruption-2018#page-2) listed as the most likely to erupt, or are currently erupting, in 2018.
 
-<iframe width="900" height="450" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1ZBAmZLBKYWJ_dJ0n74zND-p-YOevx4YrhffMv1zm&amp;viz=MAP&amp;h=false&amp;lat=66.38032674576431&amp;lng=7.883994049999956&amp;t=1&amp;z=1&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="600" height="350" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1ZBAmZLBKYWJ_dJ0n74zND-p-YOevx4YrhffMv1zm&amp;viz=MAP&amp;h=false&amp;lat=66.38032674576431&amp;lng=7.883994049999956&amp;t=1&amp;z=1&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 ## Dogs and Cats by Location in the US
 
