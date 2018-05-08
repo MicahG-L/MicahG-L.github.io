@@ -12,7 +12,7 @@ This graphic visualizes the odds of a person making the NBA. It features four st
 
 ![NBA_Odds](https://github.com/MicahG-L/MicahG-L.github.io/blob/master/NBA%20Odds.png?raw=true)
 
-## Timeline of Bill Gates and his founding of Microsoft
+## Timeline of Bill Gates' founding of Microsoft
 
 This timeline shows the story of how Bill Gates became one of the earliest and best programmers in the world, going on to co-found Microsoft with Paul Allen at a young age.
 
@@ -20,15 +20,15 @@ This timeline shows the story of how Bill Gates became one of the earliest and b
 
 ## Adult Obesity Rates Chart
 
-This line chart shows the adult obesity rates over the years 2007-2016 for the three most obese states by statistics, (1) West Virginia, (2) Mississippi and (3) Alabama. The data is taken from [The State of Obesity](https://stateofobesity.org/adult-obesity/).
+This line chart shows the adult obesity rates over the years 2007-2016 for the three most obese states by statistics, (1) West Virginia, (2) Mississippi and (3) Alabama. This chart displays many patterns in the adult obesity rates for the given three states. For example, in 2015, all three states had the same obesity rate of 35.5% before the rates of West Virginia and Mississippi rose while Alabama's plateaued. The data is taken from [The State of Obesity](https://stateofobesity.org/adult-obesity/).
 
 ![Adult_Obesity](https://github.com/MicahG-L/MicahG-L.github.io/blob/master/Adult_Obesity_Rates_of_Three_Most_Obese_States_Alabama_Mississippi_West_Virginia_chartbuilder.png?raw=true)
 
 ## Volcanoes to Watch in 2018
 
-This Google Fusion map details the location and description of the six volcanoes around the world that Popular Science listed as the most likely to erupt in 2018.
+This Google Fusion map details the location and description of the six volcanoes around the world that [Popular Science](https://www.popsci.com/volcano-eruption-2018#page-2) listed as the most likely to erupt, or are currently erupting, in 2018.
 
-<iframe width="350" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1I_K1r6Mvqe6xOy-MK0cqkxfn-moqVQRPPQr3sij1&amp;viz=MAP&amp;h=false&amp;lat=-66.93987430335972&amp;lng=109.13399304999984&amp;t=1&amp;z=0&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG" ></iframe>
+<iframe width="900" height="450" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1ZBAmZLBKYWJ_dJ0n74zND-p-YOevx4YrhffMv1zm&amp;viz=MAP&amp;h=false&amp;lat=66.38032674576431&amp;lng=7.883994049999956&amp;t=1&amp;z=1&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 ## Dogs and Cats by Location in the US
 
